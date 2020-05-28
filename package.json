@@ -1,0 +1,12 @@
+{
+  "name": "react-ecosystem-from-scratch",
+  "version": "1.0.0",
+  "description": "**What do we need**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
