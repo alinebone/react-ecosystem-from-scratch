@@ -87,4 +87,4 @@ module.exports = {
 
 ## React-hot-loader
 1. Enable auto-reload installing react-hot-loader `npm i --save-dev react-hot-loader`
-2. Add `import {hot} from "react-auto-loader"` and `export default hot(module)(App)` in the `App.js` file
+2. Add `import {hot} from "react-hot-loader"` and `export default hot(module)(App)` in the `App.js` file
